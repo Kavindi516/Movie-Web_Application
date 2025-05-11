@@ -67,8 +67,8 @@ const getMovieDetails = (id) => tmdb.get(`/movie/${id}`);
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kavindi516/Loons-Lab-Movie-Explorer.git
-   cd movie-explorer
+   git clone https://github.com/Kavindi516/Movie-Web_Application.git
+   cd Movie-Web_Application
 2. **Install dependencies**
    ```bash
    npm install
